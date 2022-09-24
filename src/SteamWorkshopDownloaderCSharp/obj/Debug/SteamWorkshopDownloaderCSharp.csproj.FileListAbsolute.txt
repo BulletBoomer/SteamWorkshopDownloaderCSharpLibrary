@@ -1,0 +1,9 @@
+C:\Users\VirusTest\source\repos\SteamWorkshopDownloaderCSharp\SteamWorkshopDownloaderCSharp\bin\Debug\SteamWorkshopDownloaderCSharp.dll
+C:\Users\VirusTest\source\repos\SteamWorkshopDownloaderCSharp\SteamWorkshopDownloaderCSharp\bin\Debug\SteamWorkshopDownloaderCSharp.pdb
+C:\Users\VirusTest\source\repos\SteamWorkshopDownloaderCSharp\SteamWorkshopDownloaderCSharp\bin\Debug\Facepunch.Steamworks.Win64.dll
+C:\Users\VirusTest\source\repos\SteamWorkshopDownloaderCSharp\SteamWorkshopDownloaderCSharp\bin\Debug\Facepunch.Steamworks.Win64.xml
+C:\Users\VirusTest\source\repos\SteamWorkshopDownloaderCSharp\SteamWorkshopDownloaderCSharp\obj\Debug\SteamWorkshopDownloaderCSharp.csproj.AssemblyReference.cache
+C:\Users\VirusTest\source\repos\SteamWorkshopDownloaderCSharp\SteamWorkshopDownloaderCSharp\obj\Debug\SteamWorkshopDownloaderCSharp.csproj.CoreCompileInputs.cache
+C:\Users\VirusTest\source\repos\SteamWorkshopDownloaderCSharp\SteamWorkshopDownloaderCSharp\obj\Debug\SteamWorkshopDownloaderCSharp.csproj.CopyComplete
+C:\Users\VirusTest\source\repos\SteamWorkshopDownloaderCSharp\SteamWorkshopDownloaderCSharp\obj\Debug\SteamWorkshopDownloaderCSharp.dll
+C:\Users\VirusTest\source\repos\SteamWorkshopDownloaderCSharp\SteamWorkshopDownloaderCSharp\obj\Debug\SteamWorkshopDownloaderCSharp.pdb
